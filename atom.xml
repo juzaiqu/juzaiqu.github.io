@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://juzaiqu.github.io/</id>
-    <title>Gridea</title>
-    <updated>2020-05-07T14:23:44.808Z</updated>
+    <title>Juzaiqu</title>
+    <updated>2020-05-07T17:16:40.884Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://juzaiqu.github.io/"/>
     <link rel="self" href="https://juzaiqu.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>清泉出石砌，好树临柴关</subtitle>
     <logo>https://juzaiqu.github.io/images/avatar.png</logo>
     <icon>https://juzaiqu.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, Juzaiqu</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://juzaiqu.github.io/post/hello-gridea/</id>
