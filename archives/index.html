@@ -69,6 +69,19 @@
 &nbsp; Gridea </a>
 <p>
 <p id="hitokoto">:D 获取中...</p>
+<script type="text/javascript">
+  fetch('https://v1.hitokoto.cn/?c=a&amp;c=b')
+    .then(function (res){
+      return res.json();
+    })
+    .then(function (data) {
+      var hitokoto = document.getElementById('hitokoto');
+      hitokoto.innerText = data.hitokoto; 
+    })
+    .catch(function (err) {
+      console.error(err);
+    })
+</script>
 </footer>
     </div>
   </div>
