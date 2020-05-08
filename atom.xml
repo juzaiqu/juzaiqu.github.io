@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://yhqz.me</id>
+    <id>http://ra.bi</id>
     <title>rabi</title>
-    <updated>2020-05-08T15:02:22.578Z</updated>
+    <updated>2020-05-08T15:03:12.281Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://yhqz.me"/>
-    <link rel="self" href="http://yhqz.me/atom.xml"/>
+    <link rel="alternate" href="http://ra.bi"/>
+    <link rel="self" href="http://ra.bi/atom.xml"/>
     <subtitle>清泉出石砌，好树临柴关</subtitle>
-    <logo>http://yhqz.me/images/avatar.png</logo>
-    <icon>http://yhqz.me/favicon.ico</icon>
+    <logo>http://ra.bi/images/avatar.png</logo>
+    <icon>http://ra.bi/favicon.ico</icon>
     <rights>All rights reserved 2020, rabi</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>http://yhqz.me/post/hello-gridea/</id>
-        <link href="http://yhqz.me/post/hello-gridea/">
+        <id>http://ra.bi/post/hello-gridea/</id>
+        <link href="http://ra.bi/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
