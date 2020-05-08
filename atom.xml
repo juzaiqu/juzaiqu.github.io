@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://juzaiqu.github.io/</id>
+    <id>http://yhqz.me</id>
     <title>rabi</title>
-    <updated>2020-05-08T14:57:18.186Z</updated>
+    <updated>2020-05-08T15:02:22.578Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://juzaiqu.github.io/"/>
-    <link rel="self" href="http://juzaiqu.github.io/atom.xml"/>
+    <link rel="alternate" href="http://yhqz.me"/>
+    <link rel="self" href="http://yhqz.me/atom.xml"/>
     <subtitle>清泉出石砌，好树临柴关</subtitle>
-    <logo>http://juzaiqu.github.io/images/avatar.png</logo>
-    <icon>http://juzaiqu.github.io/favicon.ico</icon>
+    <logo>http://yhqz.me/images/avatar.png</logo>
+    <icon>http://yhqz.me/favicon.ico</icon>
     <rights>All rights reserved 2020, rabi</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>http://juzaiqu.github.io/post/hello-gridea/</id>
-        <link href="http://juzaiqu.github.io/post/hello-gridea/">
+        <id>http://yhqz.me/post/hello-gridea/</id>
+        <link href="http://yhqz.me/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
