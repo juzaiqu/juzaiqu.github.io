@@ -104,21 +104,7 @@
 
       <footer class="py-12 text-center px-4 md:px-0" v-pre>
   Powered by <a class="text-gray-800 font-normal" href="https://github.com/getgridea/gridea" target="_blank"> 
-&nbsp; Gridea </a><p>一言
-<p id="hitokoto">:D 获取中...</p>
-<script type="text/javascript">
-  fetch('https://v1.hitokoto.cn/?c=i&amp;c=j')
-    .then(function (res){
-      return res.json();
-    })
-    .then(function (data) {
-      var hitokoto = document.getElementById('hitokoto');
-      hitokoto.innerText = data.hitokoto; 
-    })
-    .catch(function (err) {
-      console.error(err);
-    })
-</script>
+&nbsp; Gridea </a>
 </footer>
     </div>
 
