@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://labi.me</id>
     <title>Labi</title>
-    <updated>2020-06-07T09:03:29.831Z</updated>
+    <updated>2020-06-07T09:04:53.799Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://labi.me"/>
     <link rel="self" href="http://labi.me/atom.xml"/>
