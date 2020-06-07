@@ -206,14 +206,14 @@ pcoded-navbar menu-light
 
 
 <li>
-	<a href="" target="_blank" title="Bllk博客,Art主题详情信息!">
-		<i class="feather icon-volume-2"></i>Bllk博客,Art主题详情信息!
+	<a href="" target="_blank" title="Art主题详情信息!">
+		<i class="feather icon-volume-2"></i>Art主题详情信息!
 	</a>
 </li>
 
 <li>
-	<a href="" target="_blank" title="了解我的Github仓库放了什么东西!">
-		<i class="feather icon-volume-2"></i>了解我的Github仓库放了什么东西!
+	<a href="" target="_blank" title="了解我的">
+		<i class="feather icon-volume-2"></i>了解我的
 	</a>
 </li>
 
@@ -262,7 +262,7 @@ pcoded-navbar menu-light
               var repoContainer = $('.github_page');//成功在class里的最后展示
               var loadingContainer = repoContainer.find(".loading-nav");//加载前字符
               var errorContainer = repoContainer.find(".error-nav");//加载失败字符
-              $.get("https://api.github.com/users/guugg/repos", function (result) {
+              $.get("https://api.github.com/users//repos", function (result) {
                 if (result) {
                   loadingContainer.addClass("hide");
                   var ul = $("<div class='col-md-12'><div class=\"row row-sm text-center " +
